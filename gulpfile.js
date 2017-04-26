@@ -14,7 +14,7 @@ var config = {
         html: './src/*.html',
         js: './src/**/*.js',
         dist: './dist',
-        mainjs: './src/main.js'
+        mainJs: './src/main.js'
     }
 }
 
